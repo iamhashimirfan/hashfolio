@@ -23,17 +23,17 @@ class Home extends React.Component {
                             startDelay={1000}       
                     >
                         <h1 className="greet">Hi! I'm</h1>
-                        <h1 className="name">a <span>Designer!</span>
-                        <Typist.Backspace count={7} delay={500} />
-                        <Typist.Delay ms={500} />
-                        <span>veloper?</span>
+                        <h1 className="name">a <span>UI Designer</span>
                         <Typist.Backspace count={10} delay={500} />
                         <Typist.Delay ms={500} />
-                        <span>Unicorn!?</span>
-                        <Typist.Backspace count={11} delay={500} />
-                        <Typist.Delay ms={500} />Utkarsh <span>Gill<Typist.Delay ms={1000} />.</span></h1>
+                        <span>X Designer</span>
+                        {/* <Typist.Backspace count={10} delay={500} />
+                        <Typist.Delay ms={500} />
+                        <span></span> */}
+                        <Typist.Backspace count={13} delay={500} />
+                        <Typist.Delay ms={500} />Hashim <span>Irfan <Typist.Delay ms={500} />.</span></h1>
                     </Typist>
-                <p id="intro1">Product Designer & Web-Developer, passionate about solving problems
+                <p id="intro1">UI/UX Designer, passionate about solving problems
                     and designing intuitive digital experiences that leave
                         a positive impact on people and the society.</p>
                 <div className="hover-listener">

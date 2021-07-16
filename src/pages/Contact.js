@@ -11,6 +11,7 @@ import linkedin from '../icons/linkedin-box.svg';
 import github from '../icons/github-circle.svg';
 import dribbble from '../icons/dribbble.svg';
 import behance from '../icons/behance.svg';
+import twitter from '../icons/twitter-fill.svg';
 
 
 class Contact extends React.Component {
@@ -29,21 +30,21 @@ class Contact extends React.Component {
                    for freelance/collaborations or just drop a hi! :)</p>
                     <div className="links">
                         <div id="group1" className="link-group">
-                            <LinkButton icon={mail} label={"ugill@ee.iitr.ac.in"} link={"https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ugill@ee.iitr.ac.in"} />
-                            <LinkButton icon={call} label={"+91 85728 45414"} link={"tel:+918572845414"} />
-                            <LinkButton icon={facebook} label={"facebook"} link={"https://www.facebook.com/utkarsh.gill.108"} />
-                            <LinkButton icon={instagram} label={"Instagram"} link={"https://www.instagram.com/utkarshgill07/"} />
+                            <LinkButton icon={mail} label={"hashimirfan99@gmail.com"} link={"https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hashimirfan99@gmail.com"} />
+                            <LinkButton icon={call} label={"+91 99400 27510"} link={"tel:+919940027510"} />
+                            <LinkButton icon={facebook} label={"facebook"} link={"https://www.facebook.com/iamhashimirfan"} />
+                            <LinkButton icon={instagram} label={"Instagram"} link={"https://www.instagram.com/iamhashimirfan/"} />
                         </div>
                         <div id="group2" className="link-group">
                             <LinkButton icon={linkedin} label={"LinkedIn"} link={"https://in.linkedin.com/in/utkarsh-gill-9a5029173"} />
-                            <LinkButton icon={github} label={"GitHub"} link={"https://github.com/qroach"} />
-                            <LinkButton icon={dribbble} label={"dribbble"} link={"https://dribbble.com/utkarshgill07"} />
-                            <LinkButton icon={behance} label={"Behance"} link={"https://www.behance.net/utkarshgill07/"} />
+                            <LinkButton icon={twitter} label={"Twitter"} link={"https://twitter.com/uiuxhashim"} />
+                            <LinkButton icon={dribbble} label={"dribbble"} link={"https://dribbble.com/uiuxhashim"} />
+                            <LinkButton icon={behance} label={"Behance"} link={"https://www.behance.net/uiuxhashim/"} />
                         </div>
                        
                     </div>
 
-                    <p className="signature">I designed and coded this web-app from scratch. © 2020</p>
+                    <p className="signature">Hashim Irfan Ali© 2021</p>
                 </div>
         )
     }
