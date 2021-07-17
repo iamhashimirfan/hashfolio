@@ -4,23 +4,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@fullpage/react-fullpage": "^0.1.17",
+    "@fullpage/react-fullpage": "^0.1.19",
     "@material/animation": "^4.0.0",
     "@material/ripple": "^4.0.0",
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.4.0",
+    "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "babel-polyfill": "^6.26.0",
-    "jquery": "^3.4.1",
-    "jquery-scrollify": "^1.0.20",
-    "node-sass": "^4.13.0",
-    "react": "^16.12.0",
+    "jquery": "^3.6.0",
+    "jquery-scrollify": "^1.0.21",
+    "node-sass": "^4.14.1",
+    "react": "^16.14.0",
     "react-animations": "^1.0.0",
-    "react-burger-menu": "^2.6.13",
-    "react-dom": "^16.12.0",
+    "react-burger-menu": "^2.9.2",
+    "react-dom": "^16.14.0",
     "react-pose": "^4.0.10",
-    "react-router-dom": "^5.1.2",
-    "react-router-transition": "^2.0.0",
+    "react-router-dom": "^5.2.0",
+    "react-router-transition": "^2.1.0",
     "react-scripts": "3.3.0",
     "react-typist": "^2.0.5",
     "styled-components": "^4.4.1"
@@ -49,6 +49,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }
