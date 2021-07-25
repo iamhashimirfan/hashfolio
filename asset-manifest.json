@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.253f543a.chunk.css",
-    "main.js": "/static/js/main.7598fd9b.chunk.js",
-    "main.js.map": "/static/js/main.7598fd9b.chunk.js.map",
+    "main.js": "/static/js/main.1e363ad7.chunk.js",
+    "main.js.map": "/static/js/main.1e363ad7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b0577c27.js",
     "runtime-main.js.map": "/static/js/runtime-main.b0577c27.js.map",
     "static/js/2.2e41bdc4.chunk.js": "/static/js/2.2e41bdc4.chunk.js",
     "static/js/2.2e41bdc4.chunk.js.map": "/static/js/2.2e41bdc4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0bb8ecf3d7188072bbdc53dc20f57edc.js": "/precache-manifest.0bb8ecf3d7188072bbdc53dc20f57edc.js",
+    "precache-manifest.36eda13625c6345459137c8ad04fc8be.js": "/precache-manifest.36eda13625c6345459137c8ad04fc8be.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.253f543a.chunk.css.map": "/static/css/main.253f543a.chunk.css.map",
     "static/js/2.2e41bdc4.chunk.js.LICENSE": "/static/js/2.2e41bdc4.chunk.js.LICENSE",
@@ -17,8 +17,8 @@
     "static/media/Proxima Nova Semibold.otf": "/static/media/Proxima Nova Semibold.6a386899.otf",
     "static/media/arrow_upward-24px.svg": "/static/media/arrow_upward-24px.2f735f2a.svg",
     "static/media/behance.svg": "/static/media/behance.8e400198.svg",
-    "static/media/cimba_banner.jpg": "/static/media/cimba_banner.cf7867da.jpg",
-    "static/media/cimba_thumb.jpg": "/static/media/cimba_thumb.00f6068b.jpg",
+    "static/media/cimba_banner.png": "/static/media/cimba_banner.0628c17a.png",
+    "static/media/cimba_thumb.png": "/static/media/cimba_thumb.56fdb509.png",
     "static/media/close-24px.svg": "/static/media/close-24px.777b93c6.svg",
     "static/media/contact.jpg": "/static/media/contact.57740add.jpg",
     "static/media/dribbble.svg": "/static/media/dribbble.76b80376.svg",
@@ -31,8 +31,8 @@
     "static/media/keyboard_arrow_down-24px.svg": "/static/media/keyboard_arrow_down-24px.c3d75740.svg",
     "static/media/linkedin-box.svg": "/static/media/linkedin-box.f71c6d04.svg",
     "static/media/menu-24px.svg": "/static/media/menu-24px.c275e518.svg",
-    "static/media/odin_banner.jpg": "/static/media/odin_banner.2bd90a81.jpg",
-    "static/media/odin_thumb.jpg": "/static/media/odin_thumb.f421286f.jpg",
+    "static/media/odin_banner.png": "/static/media/odin_banner.0628c17a.png",
+    "static/media/odin_thumb.png": "/static/media/odin_thumb.56fdb509.png",
     "static/media/open-in-new.svg": "/static/media/open-in-new.b0228fdb.svg",
     "static/media/phone.svg": "/static/media/phone.c73d19af.svg",
     "static/media/twitter-fill.svg": "/static/media/twitter-fill.f69f02db.svg",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.b0577c27.js",
     "static/js/2.2e41bdc4.chunk.js",
     "static/css/main.253f543a.chunk.css",
-    "static/js/main.7598fd9b.chunk.js"
+    "static/js/main.1e363ad7.chunk.js"
   ]
 }

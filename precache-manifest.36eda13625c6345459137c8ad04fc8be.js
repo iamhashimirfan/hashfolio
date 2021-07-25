@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f917b76e98a3b279ca384fcc5b1fa7cc",
+    "revision": "97dee449a06d15f1202a63149d053cde",
     "url": "/index.html"
   },
   {
-    "revision": "0e67d2c48a058a502e4a",
+    "revision": "87623c02abcbd5978944",
     "url": "/static/css/main.253f543a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.2e41bdc4.chunk.js.LICENSE"
   },
   {
-    "revision": "0e67d2c48a058a502e4a",
-    "url": "/static/js/main.7598fd9b.chunk.js"
+    "revision": "87623c02abcbd5978944",
+    "url": "/static/js/main.1e363ad7.chunk.js"
   },
   {
     "revision": "abe4d26ede49546260ca",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/behance.8e400198.svg"
   },
   {
-    "revision": "cf7867da505dee82272fb127e8912de0",
-    "url": "/static/media/cimba_banner.cf7867da.jpg"
+    "revision": "0628c17a273bee6e328f1e8371e48693",
+    "url": "/static/media/cimba_banner.0628c17a.png"
   },
   {
-    "revision": "00f6068bae719e82f2e44d0e7d6c2c50",
-    "url": "/static/media/cimba_thumb.00f6068b.jpg"
+    "revision": "56fdb509151bd4f503f072b46d4f9d39",
+    "url": "/static/media/cimba_thumb.56fdb509.png"
   },
   {
     "revision": "777b93c6d5a7b86081144f8d0d3ca1d8",
@@ -100,12 +100,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/menu-24px.c275e518.svg"
   },
   {
-    "revision": "2bd90a81128904f9aa35f239fb435193",
-    "url": "/static/media/odin_banner.2bd90a81.jpg"
+    "revision": "0628c17a273bee6e328f1e8371e48693",
+    "url": "/static/media/odin_banner.0628c17a.png"
   },
   {
-    "revision": "f421286f851daf84707e0ecc7ca1f2e7",
-    "url": "/static/media/odin_thumb.f421286f.jpg"
+    "revision": "56fdb509151bd4f503f072b46d4f9d39",
+    "url": "/static/media/odin_thumb.56fdb509.png"
   },
   {
     "revision": "b0228fdb96997140418f12753c636b5f",
