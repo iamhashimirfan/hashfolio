@@ -30,13 +30,13 @@ class Contact extends React.Component {
                    for freelance/collaborations or just drop a hi! :)</p>
                     <div className="links">
                         <div id="group1" className="link-group">
-                            <LinkButton icon={mail} label={"hashimirfan99@gmail.com"} link={"https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hashimirfan99@gmail.com"} />
+                            <LinkButton icon={mail} label={"uiuxhashim@gmail.com"} link={"https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=uiuxhashim@gmail.com"} />
                             <LinkButton icon={call} label={"+91 99400 27510"} link={"tel:+919940027510"} />
                             <LinkButton icon={facebook} label={"facebook"} link={"https://www.facebook.com/iamhashimirfan"} />
                             <LinkButton icon={instagram} label={"Instagram"} link={"https://www.instagram.com/iamhashimirfan/"} />
                         </div>
                         <div id="group2" className="link-group">
-                            <LinkButton icon={linkedin} label={"LinkedIn"} link={"https://in.linkedin.com/in/utkarsh-gill-9a5029173"} />
+                            <LinkButton icon={linkedin} label={"LinkedIn"} link={"https://www.linkedin.com/in/hashimirfanali/"} />
                             <LinkButton icon={twitter} label={"Twitter"} link={"https://twitter.com/uiuxhashim"} />
                             <LinkButton icon={dribbble} label={"dribbble"} link={"https://dribbble.com/uiuxhashim"} />
                             <LinkButton icon={behance} label={"Behance"} link={"https://www.behance.net/uiuxhashim/"} />
