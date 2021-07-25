@@ -31,6 +31,6 @@ export const projects = [
         duration: "5 days (17 Sep 20 - 23 Sep 20)",
         roles: "User Research\nCompetitive Analysis\nUser Flows\nInformation Structuring\nWireframing\nPrototyping\n",
         medium: "https://subsequent-whistle-7a4.notion.site/Design-Challenge-IELTS-App-UI-7b899f355987413fb30c785e9dd3e340",
-        // behance: "https://www.behance.net/gallery/81553689/Kookerr-A-hands-free-cooking-app-concept-UIUX",
+        dribbble: "https://dribbble.com/shots/16107953-IELTS7BAND-Learning-App",
     },
 ]
