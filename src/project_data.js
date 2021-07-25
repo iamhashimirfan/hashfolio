@@ -1,5 +1,17 @@
 export const projects = [
     { 
+        title: "Design Challenge: IELTS App UI",
+        thumbnail: require("./images/ielts_thumb.jpg"),
+        banner: require("./images/ielts_banner.jpg"),
+        genre: "UI/UX design",
+        client:"Design Challenge",
+        brief: "The current layouts are not the best visual presentation of the flow. This can be completely redesigned as far as the process, logic, and fields don’t change.Good usability.Appropriate aesthetics for the demographic, tone, mobile/touch paradigms, etc.insight into your process, including any sketches, brainstorms, notes, wireframes, and assumptions on the product.offer a design direction and final design.Alignment with current consumer trends ",
+        duration: "5 days (17 Sep 20 - 23 Sep 20)",
+        roles: "User Research\nCompetitive Analysis\nUser Flows\nInformation Structuring\nWireframing\nPrototyping\n",
+        medium: "https://subsequent-whistle-7a4.notion.site/Design-Challenge-IELTS-App-UI-7b899f355987413fb30c785e9dd3e340",
+        dribbble: "https://dribbble.com/shots/16107953-IELTS7BAND-Learning-App",
+    },
+    { 
         title: "~",
         thumbnail: require("./images/cimba_thumb.png"),
         banner: require("./images/cimba_banner.png"),
@@ -20,17 +32,5 @@ export const projects = [
         duration: "~",
         roles: "~",
         // medium: "https://medium.com/design-studio-iit-roorkee/designing-for-the-employees-winter-2019-internship-at-wheelseye-8b9c15705670",
-    },
-    { 
-        title: "Design Challenge: IELTS App UI",
-        thumbnail: require("./images/ielts_thumb.jpg"),
-        banner: require("./images/ielts_banner.jpg"),
-        genre: "UI/UX design",
-        client:"Design Challenge",
-        brief: "The current layouts are not the best visual presentation of the flow. This can be completely redesigned as far as the process, logic, and fields don’t change.Good usability.Appropriate aesthetics for the demographic, tone, mobile/touch paradigms, etc.insight into your process, including any sketches, brainstorms, notes, wireframes, and assumptions on the product.offer a design direction and final design.Alignment with current consumer trends ",
-        duration: "5 days (17 Sep 20 - 23 Sep 20)",
-        roles: "User Research\nCompetitive Analysis\nUser Flows\nInformation Structuring\nWireframing\nPrototyping\n",
-        medium: "https://subsequent-whistle-7a4.notion.site/Design-Challenge-IELTS-App-UI-7b899f355987413fb30c785e9dd3e340",
-        dribbble: "https://dribbble.com/shots/16107953-IELTS7BAND-Learning-App",
     },
 ]
