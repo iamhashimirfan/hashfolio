@@ -1,8 +1,8 @@
 export const projects = [
     { 
         title: "Cimba - City Management Tool",
-        thumbnail: require("./images/cimba_thumb.jpg"),
-        banner: require("./images/cimba_banner.jpg"),
+        thumbnail: require("./images/cimba_thumb.png"),
+        banner: require("./images/cimba_banner.png"),
         genre: "Product & System Design",
         client:"Nutanix",
         brief: "The goal was to imagine the working of a social rating system & design an interface that helps the Mayor to monitor the city’s state, identify issues & suggest solutions and rate the citizens based on that system",
@@ -12,8 +12,8 @@ export const projects = [
     },
     {    
         title: "Odin - The Marketplace Cerebrum",
-        thumbnail: require("./images/odin_thumb.jpg"),
-        banner: require("./images/odin_banner.jpg"),
+        thumbnail: require("./images/odin_thumb.png"),
+        banner: require("./images/odin_banner.png"),
         genre: "product design",
         client:"Wheelseye",
         brief: "Odin is a supply-demand management portal for a logistics based startup - Wheelseye. It is an internal product used by the employees from various verticals in a collaborative fashion to handle the various operational and financial aspects of the company",
