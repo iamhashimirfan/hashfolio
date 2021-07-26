@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.253f543a.chunk.css",
-    "main.js": "/static/js/main.1e363ad7.chunk.js",
-    "main.js.map": "/static/js/main.1e363ad7.chunk.js.map",
+    "main.css": "/static/css/main.53bb4b1f.chunk.css",
+    "main.js": "/static/js/main.6bfb1005.chunk.js",
+    "main.js.map": "/static/js/main.6bfb1005.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b0577c27.js",
     "runtime-main.js.map": "/static/js/runtime-main.b0577c27.js.map",
     "static/js/2.2e41bdc4.chunk.js": "/static/js/2.2e41bdc4.chunk.js",
     "static/js/2.2e41bdc4.chunk.js.map": "/static/js/2.2e41bdc4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.36eda13625c6345459137c8ad04fc8be.js": "/precache-manifest.36eda13625c6345459137c8ad04fc8be.js",
+    "precache-manifest.9e266d57f1d0d80d764ddd5eb216ebf7.js": "/precache-manifest.9e266d57f1d0d80d764ddd5eb216ebf7.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.253f543a.chunk.css.map": "/static/css/main.253f543a.chunk.css.map",
+    "static/css/main.53bb4b1f.chunk.css.map": "/static/css/main.53bb4b1f.chunk.css.map",
     "static/js/2.2e41bdc4.chunk.js.LICENSE": "/static/js/2.2e41bdc4.chunk.js.LICENSE",
     "static/media/Proxima Nova Bold.otf": "/static/media/Proxima Nova Bold.62d4d7d3.otf",
     "static/media/Proxima Nova Regular.otf": "/static/media/Proxima Nova Regular.410504d4.otf",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0577c27.js",
     "static/js/2.2e41bdc4.chunk.js",
-    "static/css/main.253f543a.chunk.css",
-    "static/js/main.1e363ad7.chunk.js"
+    "static/css/main.53bb4b1f.chunk.css",
+    "static/js/main.6bfb1005.chunk.js"
   ]
 }
