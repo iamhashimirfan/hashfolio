@@ -32,14 +32,17 @@ class Contact extends React.Component {
                         <div id="group1" className="link-group">
                             <LinkButton icon={mail} label={"uiuxhashim@gmail.com"} link={"https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=uiuxhashim@gmail.com"} />
                             <LinkButton icon={call} label={"+91 99400 27510"} link={"tel:+919940027510"} />
-                            <LinkButton icon={facebook} label={"Facebook"} link={"https://www.facebook.com/iamhashimirfan"} />
-                            <LinkButton icon={instagram} label={"Instagram"} link={"https://www.instagram.com/iamhashimirfan/"} />
+                            <LinkButton icon={linkedin} label={"LinkedIn"} link={"https://www.linkedin.com/in/hashimirfanali/"} />
+                            {/* <LinkButton icon={facebook} label={"Facebook"} link={"https://www.facebook.com/iamhashimirfan"} />
+                            <LinkButton icon={instagram} label={"Instagram"} link={"https://www.instagram.com/iamhashimirfan/"} /> */}
                         </div>
                         <div id="group2" className="link-group">
-                            <LinkButton icon={linkedin} label={"LinkedIn"} link={"https://www.linkedin.com/in/hashimirfanali/"} />
-                            <LinkButton icon={twitter} label={"Twitter"} link={"https://twitter.com/uiuxhashim"} />
-                            <LinkButton icon={dribbble} label={"Dribbble"} link={"https://dribbble.com/uiuxhashim"} />
+                            {/* <LinkButton icon={linkedin} label={"LinkedIn"} link={"https://www.linkedin.com/in/hashimirfanali/"} /> */}
                             <LinkButton icon={behance} label={"Behance"} link={"https://www.behance.net/uiuxhashim/"} />
+                            <LinkButton icon={dribbble} label={"Dribbble"} link={"https://dribbble.com/uiuxhashim"} />
+                            <LinkButton icon={twitter} label={"Twitter"} link={"https://twitter.com/uiuxhashim"} />
+                            
+                            
                         </div>
                        
                     </div>
