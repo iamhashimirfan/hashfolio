@@ -99,7 +99,7 @@ class Tabs extends React.Component {
       let style2 = 1 === this.state.selected ? "menu-item nav-button-active" : "menu-item nav-button";
       let style3 = 2 === this.state.selected ? "menu-item nav-button-active" : "menu-item nav-button";
       return (
-        <Menu right width="50vw" isOpen={false} customCrossIcon={<img src={cross} />} customBurgerIcon={<img src={hamburger} />}>
+        <Menu right width="100%" isOpen={false} customCrossIcon={<img src={cross} />} customBurgerIcon={<img src={hamburger} />}>
           <a id="work" className={style1} href="/#work">work</a>
           <a id="about" className={style2} href="/#about">about</a>
           <a id="contact" className={style3} href="/#contact">contact</a>
